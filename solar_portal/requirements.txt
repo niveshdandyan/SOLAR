@@ -1,0 +1,35 @@
+# Core data processing
+pandas==2.0.3
+numpy==1.24.3
+sqlite3-python==1.0.0
+
+# Web framework
+streamlit==1.28.1
+streamlit-option-menu==0.3.6
+
+# Visualization
+matplotlib==3.7.2
+plotly==5.17.0
+seaborn==0.12.2
+
+# API & utilities
+requests==2.31.0
+python-dateutil==2.8.2
+
+# PDF generation
+reportlab==4.0.7
+pypdf==3.17.1
+
+# Data validation
+pydantic==2.3.0
+
+# Environment & logging
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.2
+pytest-cov==4.1.0
+
+# Utility
+tqdm==4.66.1
+pytz==2023.3
